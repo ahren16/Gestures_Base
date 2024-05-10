@@ -1,0 +1,14 @@
+[
+  {
+    "name":"Жесты при задержании",
+    "shortName": "111",
+    "color": "#FF0000",
+    "videos": ["aaaaaa", "eeeeee", "cscscs"]
+  },
+  {
+    "name":"Помощь",
+    "shortName": "222",
+    "color": "#FFFF00",
+    "videos": ["bbbbb", "eeeeee"]
+  }
+]
