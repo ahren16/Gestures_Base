@@ -15,7 +15,7 @@
     "name":"Жесты для сотрудников ",
     "shortName": "полицейский",
     "color": "#FFF000",
-    "videos": ["i_am_policeman", "give_doc", "show_pass", "break_law", "detain", "where_work", "where_study", "where_live", ]
+    "videos": ["i_am_policeman", "give_doc", "show_pass", "break_law", "detain", "where_work", "where_study", "where_live" ]
   }
   
   
