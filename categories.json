@@ -3,19 +3,19 @@
     "name":"Жесты при задержании",
     "shortName": "задержание",
     "color": "#FF0000",
-    "videos": ["i_am_policeman", "give_doc", "show_pass"]
+    "videos": ["i_am_policeman", "give_doc", "show_pass", "tell_true", "break_law", "detain"]
   },
   {
     "name":"Оказание помощи",
     "shortName": "помощь",
     "color": "#FFFF00",
-    "videos": ["i_am_policeman", "need_tablet"]
+    "videos": ["i_am_policeman", "need_tablet?", "need_doctor?", "need_water", "need_help?", "call_ambulance", "what_happened?", "цhere_hurt?"]
   }
   {
     "name":"Жесты для сотрудников ",
-    "shortName": "помощь",
+    "shortName": "полицейский",
     "color": "#FFF000",
-    "videos": ["i_am_policeman", "need_tablet"]
+    "videos": ["i_am_policeman", "give_doc", "show_pass", "break_law", "detain", "where_work", "where_study", "where_live", ]
   }
   
   
