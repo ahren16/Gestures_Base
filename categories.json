@@ -1,14 +1,15 @@
 [
   {
     "name":"Жесты при задержании",
-    "shortName": "111",
+    "shortName": "задержание",
     "color": "#FF0000",
-    "videos": ["aaaaaa", "eeeeee", "cscscs"]
+    "videos": ["i_am_policeman", "give_doc", "show_pass"]
   },
   {
-    "name":"Помощь",
-    "shortName": "333",
+    "name":"Оказание помощи",
+    "shortName": "помощь",
     "color": "#FFFF00",
-    "videos": ["bbbbb", "eeeeee"]
+    "videos": ["i_am_policeman", "need_tablet"]
   }
+  
 ]
