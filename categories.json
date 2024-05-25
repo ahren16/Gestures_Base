@@ -11,5 +11,12 @@
     "color": "#FFFF00",
     "videos": ["i_am_policeman", "need_tablet"]
   }
+  {
+    "name":"Жесты для сотрудников ",
+    "shortName": "помощь",
+    "color": "#FFF000",
+    "videos": ["i_am_policeman", "need_tablet"]
+  }
+  
   
 ]
