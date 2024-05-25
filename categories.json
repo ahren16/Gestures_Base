@@ -9,7 +9,7 @@
     "name":"Оказание помощи",
     "shortName": "помощь",
     "color": "#FFFF00",
-    "videos": ["i_am_policeman", "need_tablet?", "need_doctor?", "need_water", "need_help?", "call_ambulance", "what_happened?", "цhere_hurt?"]
+    "videos": ["i_am_policeman", "need_tablet?", "need_doctor?", "need_water", "need_help?", "call_ambulance", "what_happened?", "where_hurt?"]
   }
   {
     "name":"Жесты для сотрудников ",
